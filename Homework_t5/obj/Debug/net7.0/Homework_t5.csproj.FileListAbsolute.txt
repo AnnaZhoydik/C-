@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\Homework_t5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\Homework_t5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\Homework_t5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\Homework_t5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\Homework_t5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Homework_t5\bin\Debug\net7.0\Homework_t5.exe
+C:\Users\Admin\Desktop\C#\Homework_t5\bin\Debug\net7.0\Homework_t5.deps.json
+C:\Users\Admin\Desktop\C#\Homework_t5\bin\Debug\net7.0\Homework_t5.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Homework_t5\bin\Debug\net7.0\Homework_t5.dll
+C:\Users\Admin\Desktop\C#\Homework_t5\bin\Debug\net7.0\Homework_t5.pdb
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\Homework_t5.dll
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\refint\Homework_t5.dll
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\Homework_t5.pdb
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\Homework_t5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Homework_t5\obj\Debug\net7.0\ref\Homework_t5.dll
