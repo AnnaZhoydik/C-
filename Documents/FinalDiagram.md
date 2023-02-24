@@ -1,0 +1,1 @@
+![блок-схема](C:\Users\Admin\Desktop\FinalDiagram.png)
